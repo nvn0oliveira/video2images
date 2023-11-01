@@ -1,4 +1,7 @@
 [core]
-    remote = local
+    remote = drive
 ['remote "local"']
     url = C:\Users\Asus\Desktop\data
+['remote "drive"']
+    url = gdrive://1Zl0xl7zSC_hFIBKJRWBsNdZMVm-65h-u
+    gdrive_acknowledge_abuse = true
